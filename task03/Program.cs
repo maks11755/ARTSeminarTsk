@@ -27,7 +27,7 @@ else if (day1== "5")
     Console.WriteLine("Пятница");
 }
 else if (day1 == "6") 
-{
+{ 
     Console.WriteLine("Суббота");
 }
 else if (day1 == "7") 
